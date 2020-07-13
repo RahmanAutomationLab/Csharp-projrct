@@ -1,0 +1,11 @@
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\bin\Debug\netcoreapp2.1\OperatorsC.deps.json
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\bin\Debug\netcoreapp2.1\OperatorsC.runtimeconfig.json
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\bin\Debug\netcoreapp2.1\OperatorsC.runtimeconfig.dev.json
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\bin\Debug\netcoreapp2.1\OperatorsC.dll
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\bin\Debug\netcoreapp2.1\OperatorsC.pdb
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.csprojAssemblyReference.cache
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.csproj.CoreCompileInputs.cache
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.AssemblyInfoInputs.cache
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.AssemblyInfo.cs
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.dll
+C:\Users\rahma\developC-Sharp\OperatorsC\OperatorsC\obj\Debug\netcoreapp2.1\OperatorsC.pdb
